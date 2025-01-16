@@ -1,0 +1,19 @@
+API HUBForum
+
+Regras de negócio:
+
+Nossa API se concentrará especificamente nos tópicos, e deve permitir aos usuários:
+    • Criar um novo tópico;
+    • Mostrar todos os tópicos criados;
+    • Mostrar um tópico específico;
+    • Atualizar um tópico;
+    • Eliminar um tópico.
+
+
+Tabelas a criar:
+    • tópico;
+    • resposta;
+    • usuário;
+    • perfil;
+    • curso;
+
