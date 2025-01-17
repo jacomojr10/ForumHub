@@ -4,5 +4,7 @@
 </br>
 <h2>Principais tecnologias utilizadas:</h2>
 <li>SPRING Boot</li>
+<li>MySQL 8.0</li>
 <li>Maven</li>
 <li>Biblitoeca de autenticação JWT</li>
+<li>ISOMINIA</li>
